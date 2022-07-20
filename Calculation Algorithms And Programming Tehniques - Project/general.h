@@ -1,0 +1,16 @@
+#pragma once
+#include <string>
+#include <vector>
+#include <sstream>
+#include <iostream>
+#include <stdlib.h>
+#include <cstdlib>
+#include <thread>
+#include <chrono>
+#include <stdexcept>
+#include <limits>
+#include <cmath>
+#include <SFML/System.hpp>
+#include <SFML/Window.hpp>
+#include <SFML/Graphics.hpp>
+#include <Windows.h>
